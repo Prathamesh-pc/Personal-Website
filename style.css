@@ -1,0 +1,131 @@
+.bg{
+    background-color: #e4f9f5;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+.d1{
+    text-align: center;
+    font-family: "Playwrite CU", cursive;
+    color: #66bfbf;
+    padding-top: 200px;
+    
+    
+
+}
+
+.h1{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.d2{
+    text-align: center;
+    font-family: "Playwrite CU", cursive;
+    color: #66bfbf;
+    padding-top: 20px;
+    font-size: 1.5rem;
+}
+.s1{
+
+    text-decoration: underline;
+    color: #66bfbf;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    height: 125px;
+   
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 100px;
+    height: 125px;
+    
+}
+.mountain{
+    position: absolute;
+    height:300px;
+    bottom: 0px;
+    text-align: center;
+    right: 35%;
+
+}
+.bi{
+    height:150px;
+    width:150px;
+    border-radius: 50%;
+}
+.p1{
+    font-size: 20px;
+    text-align: center;
+    width: 30%;
+    margin:auto;
+    margin-top:40px ;
+} 
+
+.dot{
+    color:#66bfbf;
+    font-weight: bolder;
+    text-align: center;
+    margin-top:100px ;
+}
+.d3,.d4{
+    margin-top: 20px;
+    width: 40%;
+    text-align: center;
+    margin: auto;
+}
+
+.d3 img{
+    float: left;
+}
+.d4 img{
+    float: left
+}
+.f1{
+    background-color:#66bfbf ;
+}
+.btnn{
+    background-color: #11cdd4;
+    color: whitesmoke;
+    font-size: 25px;
+    border-radius: 8px;
+    border: transparent;
+    padding: 7px 20px 7px 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    transition: none;
+    
+   
+}
+.btnn:hover{
+    background-color: #11999e;
+    transition: none;
+}
+.nav-item:hover{
+    background-color: white;
+}
+.footer{
+    background-color: #11cdd4;
+    text-align: center;
+    padding: 50px;
+}
+.f1{
+    background-color:#11cdd4;
+    color:#11999e;
+    text-decoration: none;
+    padding: 5px;
+}
+.f1:hover{
+    color: whitesmoke;
+    text-decoration: underline;
+    
+}
+.contact{
+    text-decoration: none;
+    color: whitesmoke;
+}
